@@ -60,8 +60,8 @@ export default function Home() {
             We're launching soon
           </h1>
           <div className={styles.container}>
-            <LaunchCountdown days={8}
-                             hours={23}
+            <LaunchCountdown days={4}
+                             hours={12}
                              minutes={55}
                              seconds={41}
             />
